@@ -18,6 +18,8 @@ import unittest
 
 from app import app
 
+import random
+
 class TestApp(unittest.TestCase):
     """Unit tests for app.py."""
 
